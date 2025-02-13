@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/my_eco/static/css/main.e4193e91.css",
-    "main.js": "/my_eco/static/js/main.9994a01c.js",
-    "static/css/718.1a95fb75.chunk.css": "/my_eco/static/css/718.1a95fb75.chunk.css",
-    "static/js/718.338c8dc3.chunk.js": "/my_eco/static/js/718.338c8dc3.chunk.js",
+    "main.css": "/my_eco/static/css/main.e0b8d7f2.css",
+    "main.js": "/my_eco/static/js/main.d729ab48.js",
+    "static/css/170.16aa40b1.chunk.css": "/my_eco/static/css/170.16aa40b1.chunk.css",
+    "static/js/170.df2b4a7d.chunk.js": "/my_eco/static/js/170.df2b4a7d.chunk.js",
     "static/css/648.28ebc7c8.chunk.css": "/my_eco/static/css/648.28ebc7c8.chunk.css",
     "static/js/648.3c2d2891.chunk.js": "/my_eco/static/js/648.3c2d2891.chunk.js",
-    "static/js/137.1d2c9add.chunk.js": "/my_eco/static/js/137.1d2c9add.chunk.js",
+    "static/js/137.fc6bd19d.chunk.js": "/my_eco/static/js/137.fc6bd19d.chunk.js",
     "static/css/851.faa71c59.chunk.css": "/my_eco/static/css/851.faa71c59.chunk.css",
     "static/js/851.bb5b8990.chunk.js": "/my_eco/static/js/851.bb5b8990.chunk.js",
     "static/js/787.c875205c.chunk.js": "/my_eco/static/js/787.c875205c.chunk.js",
@@ -44,13 +44,13 @@
     "static/media/slick.ttf": "/my_eco/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/my_eco/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/my_eco/index.html",
-    "main.e4193e91.css.map": "/my_eco/static/css/main.e4193e91.css.map",
-    "main.9994a01c.js.map": "/my_eco/static/js/main.9994a01c.js.map",
-    "718.1a95fb75.chunk.css.map": "/my_eco/static/css/718.1a95fb75.chunk.css.map",
-    "718.338c8dc3.chunk.js.map": "/my_eco/static/js/718.338c8dc3.chunk.js.map",
+    "main.e0b8d7f2.css.map": "/my_eco/static/css/main.e0b8d7f2.css.map",
+    "main.d729ab48.js.map": "/my_eco/static/js/main.d729ab48.js.map",
+    "170.16aa40b1.chunk.css.map": "/my_eco/static/css/170.16aa40b1.chunk.css.map",
+    "170.df2b4a7d.chunk.js.map": "/my_eco/static/js/170.df2b4a7d.chunk.js.map",
     "648.28ebc7c8.chunk.css.map": "/my_eco/static/css/648.28ebc7c8.chunk.css.map",
     "648.3c2d2891.chunk.js.map": "/my_eco/static/js/648.3c2d2891.chunk.js.map",
-    "137.1d2c9add.chunk.js.map": "/my_eco/static/js/137.1d2c9add.chunk.js.map",
+    "137.fc6bd19d.chunk.js.map": "/my_eco/static/js/137.fc6bd19d.chunk.js.map",
     "851.faa71c59.chunk.css.map": "/my_eco/static/css/851.faa71c59.chunk.css.map",
     "851.bb5b8990.chunk.js.map": "/my_eco/static/js/851.bb5b8990.chunk.js.map",
     "787.c875205c.chunk.js.map": "/my_eco/static/js/787.c875205c.chunk.js.map",
@@ -59,7 +59,7 @@
     "617.95822017.chunk.js.map": "/my_eco/static/js/617.95822017.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4193e91.css",
-    "static/js/main.9994a01c.js"
+    "static/css/main.e0b8d7f2.css",
+    "static/js/main.d729ab48.js"
   ]
 }
