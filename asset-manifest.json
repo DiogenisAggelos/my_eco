@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my_eco/static/css/main.e6cf8bc5.css",
-    "main.js": "/my_eco/static/js/main.4cb033ab.js",
+    "main.js": "/my_eco/static/js/main.d81655d1.js",
     "static/css/170.16aa40b1.chunk.css": "/my_eco/static/css/170.16aa40b1.chunk.css",
     "static/js/170.89c47614.chunk.js": "/my_eco/static/js/170.89c47614.chunk.js",
     "static/css/648.28ebc7c8.chunk.css": "/my_eco/static/css/648.28ebc7c8.chunk.css",
@@ -45,7 +45,7 @@
     "static/media/slick.woff": "/my_eco/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/my_eco/index.html",
     "main.e6cf8bc5.css.map": "/my_eco/static/css/main.e6cf8bc5.css.map",
-    "main.4cb033ab.js.map": "/my_eco/static/js/main.4cb033ab.js.map",
+    "main.d81655d1.js.map": "/my_eco/static/js/main.d81655d1.js.map",
     "170.16aa40b1.chunk.css.map": "/my_eco/static/css/170.16aa40b1.chunk.css.map",
     "170.89c47614.chunk.js.map": "/my_eco/static/js/170.89c47614.chunk.js.map",
     "648.28ebc7c8.chunk.css.map": "/my_eco/static/css/648.28ebc7c8.chunk.css.map",
@@ -60,6 +60,6 @@
   },
   "entrypoints": [
     "static/css/main.e6cf8bc5.css",
-    "static/js/main.4cb033ab.js"
+    "static/js/main.d81655d1.js"
   ]
 }
