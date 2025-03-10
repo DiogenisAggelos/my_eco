@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/my_eco/static/css/main.1f6c6e96.css",
-    "main.js": "/my_eco/static/js/main.ea3a9b41.js",
+    "main.js": "/my_eco/static/js/main.45f5e96b.js",
     "static/css/170.bfc77a87.chunk.css": "/my_eco/static/css/170.bfc77a87.chunk.css",
     "static/js/170.02a02152.chunk.js": "/my_eco/static/js/170.02a02152.chunk.js",
     "static/css/648.28ebc7c8.chunk.css": "/my_eco/static/css/648.28ebc7c8.chunk.css",
     "static/js/648.3c2d2891.chunk.js": "/my_eco/static/js/648.3c2d2891.chunk.js",
     "static/js/137.1b82b861.chunk.js": "/my_eco/static/js/137.1b82b861.chunk.js",
     "static/css/851.cbd6d2c0.chunk.css": "/my_eco/static/css/851.cbd6d2c0.chunk.css",
-    "static/js/851.c2d14847.chunk.js": "/my_eco/static/js/851.c2d14847.chunk.js",
+    "static/js/851.20a394c5.chunk.js": "/my_eco/static/js/851.20a394c5.chunk.js",
     "static/js/787.c875205c.chunk.js": "/my_eco/static/js/787.c875205c.chunk.js",
     "static/js/345.70af5d09.chunk.js": "/my_eco/static/js/345.70af5d09.chunk.js",
     "static/js/113.a7d27183.chunk.js": "/my_eco/static/js/113.a7d27183.chunk.js",
-    "static/js/617.f7e47518.chunk.js": "/my_eco/static/js/617.f7e47518.chunk.js",
+    "static/js/617.fdde9181.chunk.js": "/my_eco/static/js/617.fdde9181.chunk.js",
     "static/media/single-sofa-01.jpg": "/my_eco/static/media/single-sofa-01.066a994d36d7ee59a0e0.jpg",
     "static/media/single-sofa-03.jpg": "/my_eco/static/media/single-sofa-03.19d776d13fcee69a7765.jpg",
     "static/media/arm-chair-03.jpg": "/my_eco/static/media/arm-chair-03.726a783a7751afc13d8e.jpg",
@@ -47,21 +47,21 @@
     "static/media/slick.woff": "/my_eco/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/my_eco/index.html",
     "main.1f6c6e96.css.map": "/my_eco/static/css/main.1f6c6e96.css.map",
-    "main.ea3a9b41.js.map": "/my_eco/static/js/main.ea3a9b41.js.map",
+    "main.45f5e96b.js.map": "/my_eco/static/js/main.45f5e96b.js.map",
     "170.bfc77a87.chunk.css.map": "/my_eco/static/css/170.bfc77a87.chunk.css.map",
     "170.02a02152.chunk.js.map": "/my_eco/static/js/170.02a02152.chunk.js.map",
     "648.28ebc7c8.chunk.css.map": "/my_eco/static/css/648.28ebc7c8.chunk.css.map",
     "648.3c2d2891.chunk.js.map": "/my_eco/static/js/648.3c2d2891.chunk.js.map",
     "137.1b82b861.chunk.js.map": "/my_eco/static/js/137.1b82b861.chunk.js.map",
     "851.cbd6d2c0.chunk.css.map": "/my_eco/static/css/851.cbd6d2c0.chunk.css.map",
-    "851.c2d14847.chunk.js.map": "/my_eco/static/js/851.c2d14847.chunk.js.map",
+    "851.20a394c5.chunk.js.map": "/my_eco/static/js/851.20a394c5.chunk.js.map",
     "787.c875205c.chunk.js.map": "/my_eco/static/js/787.c875205c.chunk.js.map",
     "345.70af5d09.chunk.js.map": "/my_eco/static/js/345.70af5d09.chunk.js.map",
     "113.a7d27183.chunk.js.map": "/my_eco/static/js/113.a7d27183.chunk.js.map",
-    "617.f7e47518.chunk.js.map": "/my_eco/static/js/617.f7e47518.chunk.js.map"
+    "617.fdde9181.chunk.js.map": "/my_eco/static/js/617.fdde9181.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f6c6e96.css",
-    "static/js/main.ea3a9b41.js"
+    "static/js/main.45f5e96b.js"
   ]
 }
